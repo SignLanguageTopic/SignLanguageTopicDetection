@@ -37,9 +37,6 @@ ${H2S_ROOT}
 └── text
 ```
 
-Download in each respective directory the data files from [this link]().
-
-
 ## Train Model
 
 ```bash
